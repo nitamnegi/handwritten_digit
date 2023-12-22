@@ -22,7 +22,7 @@ Contributions:
 Contributions and improvements to the website's design and functionality are welcome. Feel free to submit issues, feature requests, or pull requests.
 
 Author:
-[Nitam Negi][https://www.linkedin.com/in/nitam-negi-3307b5291/]
+[Nitam Negi](https://www.linkedin.com/in/nitam-negi-3307b5291/)
 
 Note:
 This is a static website template and does not include server-side functionality.
