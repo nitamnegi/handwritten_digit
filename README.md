@@ -1,4 +1,4 @@
-#Pizza Restaurant Website
+Pizza Restaurant Website
 
 This repository contains the HTML, CSS, and JavaScript code for a simple and stylish Pizza Restaurant website. The website features a responsive design, making it suitable for various devices. It includes sections for displaying the menu, providing information about the restaurant, showcasing the chef, and offering a contact form for reservations.
 
